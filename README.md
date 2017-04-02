@@ -16,4 +16,4 @@
 
 **User Story:** I can win the game by getting a series of 20 steps correct. I am notified of my victory, then the game starts over.
 
-Find the live version for this at: [https://gmunker.github.io/Simon-Game/](https://gmunker.github.io/Simone-Game/) 
+Find the live version for this at: [https://gmunker.github.io/Simon-Game/](https://gmunker.github.io/Simon-Game/) 
