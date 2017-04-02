@@ -1,0 +1,46 @@
+html, body {
+  background: black;
+}
+
+.buttons {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  border-radius: 50%;
+}
+
+#start {
+  background-color: purple;
+  height: 50px!important;
+  width: 50px!important;
+}
+
+#start:active {
+  background-color: white;
+}
+
+#last {
+  background-color: pink;
+  height: 50px!important;
+  width: 50px!important;
+}
+
+#last:active {
+  background-color: white;
+}
+
+#redBtn {
+  background-color: red;
+}
+
+#blueBtn {
+  background-color: blue;
+}
+
+#greenBtn {
+  background-color: green;
+}
+
+#yellowBtn {
+  background-color: yellow;
+}
